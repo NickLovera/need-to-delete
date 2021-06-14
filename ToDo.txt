@@ -10,8 +10,7 @@ To Do
 				- Legend
 					- Stats
 					
-	- Test with console input
-		- Create console app
+    - Use the files being written too?
 		
 	- Look into POST API's for transfering to githubpage
 	
