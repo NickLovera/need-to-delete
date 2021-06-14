@@ -1,0 +1,657 @@
+{
+  "data": [
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_5"
+      },
+      "metadata": {
+        "name": "Bloodhound",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bloodhound-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bloodhound-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bloodhound-concept-bg-small.jpg",
+        "isActive": true
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": 19,
+          "percentile": 99.9,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 35103,
+          "displayValue": "35,103",
+          "displayType": "Unspecified"
+        },
+        "winningKills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Winning Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 791,
+          "displayValue": "791.00",
+          "displayType": "Unspecified"
+        },
+        "damage": {
+          "rank": 21,
+          "percentile": 99.9,
+          "displayName": "Damage",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 8849285,
+          "displayValue": "8,849,285",
+          "displayType": "Unspecified"
+        },
+        "headshots": {
+          "rank": 16,
+          "percentile": 99.9,
+          "displayName": "Headshots",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 41065,
+          "displayValue": "41,065",
+          "displayType": "Unspecified"
+        },
+        "matchesPlayed": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Matches Played",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 7684,
+          "displayValue": "7,684",
+          "displayType": "Unspecified"
+        },
+        "revives": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Revives",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 3757,
+          "displayValue": "3,757",
+          "displayType": "Unspecified"
+        },
+        "winsWithFullSquad": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Full Squad Wins",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 1710,
+          "displayValue": "1,710",
+          "displayType": "Unspecified"
+        },
+        "pistolKills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Pistol Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 3933,
+          "displayValue": "3,933",
+          "displayType": "Unspecified"
+        },
+        "shotgunKills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Shotgun Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 5083,
+          "displayValue": "5,083",
+          "displayType": "Unspecified"
+        },
+        "smgKills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "SMG Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 12035,
+          "displayValue": "12,035",
+          "displayType": "Unspecified"
+        },
+        "arKills": {
+          "rank": null,
+          "percentile": 99.8,
+          "displayName": "AR Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 7323,
+          "displayValue": "7,323",
+          "displayType": "Unspecified"
+        },
+        "lmgKills": {
+          "rank": null,
+          "percentile": 99.7,
+          "displayName": "LMG Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 901,
+          "displayValue": "901",
+          "displayType": "Unspecified"
+        },
+        "carePackageKills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Care Package Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 2432,
+          "displayValue": "2,432",
+          "displayType": "Unspecified"
+        },
+        "beastOfTheHuntKills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Beast of the Hunt: Kills",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 7684,
+          "displayValue": "7,684",
+          "displayType": "Unspecified"
+        },
+        "eyeEnemiesScanned": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Eye: Enemies Scanned",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 82421,
+          "displayValue": "82,421",
+          "displayType": "Unspecified"
+        },
+        "eyeTrapsScanned": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Eye: Traps Scanned",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 29911,
+          "displayValue": "29,911",
+          "displayType": "Unspecified"
+        },
+        "season5Kills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Season 5 Kills",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 4448,
+          "displayValue": "4,448",
+          "displayType": "Unspecified"
+        },
+        "season6Wins": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Season 6 Wins",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 503,
+          "displayValue": "503",
+          "displayType": "Unspecified"
+        },
+        "season6Kills": {
+          "rank": null,
+          "percentile": 99.9,
+          "displayName": "Season 6 Kills",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 8317,
+          "displayValue": "8,317",
+          "displayType": "Unspecified"
+        },
+        "season8Wins": {
+          "rank": null,
+          "percentile": 98.2,
+          "displayName": "Season 8 Wins",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 63,
+          "displayValue": "63",
+          "displayType": "Unspecified"
+        },
+        "season8Kills": {
+          "rank": null,
+          "percentile": 98.9,
+          "displayName": "Season 8 Kills",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 1296,
+          "displayValue": "1,296",
+          "displayType": "Unspecified"
+        },
+        "season9Wins": {
+          "rank": null,
+          "percentile": 99.4,
+          "displayName": "Season 9 Wins",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 164,
+          "displayValue": "164",
+          "displayType": "Unspecified"
+        },
+        "season9Kills": {
+          "rank": null,
+          "percentile": 99.8,
+          "displayName": "Season 9 Kills",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 2784,
+          "displayValue": "2,784",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_9"
+      },
+      "metadata": {
+        "name": "Octane",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/octane-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 67,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 246,
+          "displayValue": "246",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_2"
+      },
+      "metadata": {
+        "name": "Bangalore",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bangalore-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bangalore-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/bangalore-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 34,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 23,
+          "displayValue": "23",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_8"
+      },
+      "metadata": {
+        "name": "Pathfinder",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/pathfinder-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": 26934,
+          "percentile": 96.9,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 2882,
+          "displayValue": "2,882",
+          "displayType": "Unspecified"
+        },
+        "pistolKills": {
+          "rank": null,
+          "percentile": 91,
+          "displayName": "Pistol Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 256,
+          "displayValue": "256",
+          "displayType": "Unspecified"
+        },
+        "smgKills": {
+          "rank": null,
+          "percentile": 90,
+          "displayName": "SMG Kills",
+          "displayCategory": "Weapons",
+          "category": null,
+          "metadata": {},
+          "value": 659,
+          "displayValue": "659",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_4"
+      },
+      "metadata": {
+        "name": "Mirage",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/mirage-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/mirage-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/mirage-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 22,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 21,
+          "displayValue": "21",
+          "displayType": "Unspecified"
+        },
+        "winningKills": {
+          "rank": null,
+          "percentile": null,
+          "displayName": "Winning Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 0,
+          "displayValue": "0.00",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_1"
+      },
+      "metadata": {
+        "name": "Wraith",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wraith-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 92,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 2291,
+          "displayValue": "2,291",
+          "displayType": "Unspecified"
+        },
+        "damage": {
+          "rank": null,
+          "percentile": 36,
+          "displayName": "Damage",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 134355,
+          "displayValue": "134,355",
+          "displayType": "Unspecified"
+        },
+        "finishers": {
+          "rank": null,
+          "percentile": 7,
+          "displayName": "Finishers",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 1,
+          "displayValue": "1",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_6"
+      },
+      "metadata": {
+        "name": "Gibraltar",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/gibraltar-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/gibraltar-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/gibraltar-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": 44371,
+          "percentile": 90,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 341,
+          "displayValue": "341",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_13"
+      },
+      "metadata": {
+        "name": "Loba",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/loba-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/loba-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/loba-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 18,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 6,
+          "displayValue": "6",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_3"
+      },
+      "metadata": {
+        "name": "Caustic",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/caustic-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/caustic-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/caustic-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 15,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 14,
+          "displayValue": "14",
+          "displayType": "Unspecified"
+        },
+        "matchesPlayed": {
+          "rank": null,
+          "percentile": 8,
+          "displayName": "Matches Played",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 17,
+          "displayValue": "17",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_10"
+      },
+      "metadata": {
+        "name": "Wattson",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wattson-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wattson-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/wattson-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 31,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 25,
+          "displayValue": "25",
+          "displayType": "Unspecified"
+        }
+      }
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_12"
+      },
+      "metadata": {
+        "name": "Revenant",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/revenant-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/revenant-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/revenant-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {}
+    },
+    {
+      "type": "legend",
+      "attributes": {
+        "id": "legend_7"
+      },
+      "metadata": {
+        "name": "Lifeline",
+        "imageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/lifeline-tile.png",
+        "tallImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/lifeline-tall.png",
+        "bgImageUrl": "https://trackercdn.com/cdn/apex.tracker.gg/legends/lifeline-concept-bg-small.jpg",
+        "isActive": false
+      },
+      "expiryDate": "2021-06-12T07:21:16.5031795+00:00",
+      "stats": {
+        "kills": {
+          "rank": null,
+          "percentile": 86,
+          "displayName": "Kills",
+          "displayCategory": "Combat",
+          "category": null,
+          "metadata": {},
+          "value": 441,
+          "displayValue": "441",
+          "displayType": "Unspecified"
+        },
+        "revives": {
+          "rank": null,
+          "percentile": 48,
+          "displayName": "Revives",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 93,
+          "displayValue": "93",
+          "displayType": "Unspecified"
+        },
+        "droppodItemsForSquadmates": {
+          "rank": null,
+          "percentile": 20,
+          "displayName": "Droppod: Items for Squadmates",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 21,
+          "displayValue": "21",
+          "displayType": "Unspecified"
+        },
+        "season6Wins": {
+          "rank": null,
+          "percentile": 47,
+          "displayName": "Season 6 Wins",
+          "displayCategory": "Game",
+          "category": null,
+          "metadata": {},
+          "value": 3,
+          "displayValue": "3",
+          "displayType": "Unspecified"
+        }
+      }
+    }
+  ]
+}

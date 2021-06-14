@@ -1,0 +1,45 @@
+Apex.go
+---------------------------------------------------------------------------------------------------------------
+To Do
+	- Add more stats (Below and check for others)
+	- Decide how I want them to show
+		- Get all
+			- 
+		- Get specific
+			- What can you search by
+				- Legend
+					- Stats
+					
+	- Test with console input
+		- Create console app
+		
+	- Look into POST API's for transfering to githubpage
+	
+	- TRansfer to Github 
+
+
+---------------------------------------------------------------------------------------------------------------
+
+STATS TO CHECK ON
+
+All (Value + Rank)
+	- Kills 
+	- Damage
+	- Full squad wins
+	- Seaon kills
+	- Season wins
+	- Headshots
+	
+
+Me
+	- Enemies scanned
+	- Beast of the hunt kills
+	
+	- Traps scanned? 
+
+
+Skeet
+	- Decoys Created
+	- Bamboozles
+	
+---------------------------------------------------------------------------------------------------------------
